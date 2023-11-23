@@ -4,3 +4,6 @@
 [submodule "shftr-addon"]
 	path = shftr-addon
 	url = https://github.com/Zan-Infdata/shftr-addon.git
+[submodule "shftr-app"]
+	path = shftr-app
+	url = https://github.com/Zan-Infdata/shftr-app.git
