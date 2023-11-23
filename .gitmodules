@@ -7,3 +7,6 @@
 [submodule "shftr-app"]
 	path = shftr-app
 	url = https://github.com/Zan-Infdata/shftr-app.git
+[submodule "shftr-Unity"]
+	path = shftr-Unity
+	url = https://github.com/Zan-Infdata/shftr-Unity.git
