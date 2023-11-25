@@ -10,3 +10,6 @@
 [submodule "shftr-Unity"]
 	path = shftr-Unity
 	url = https://github.com/Zan-Infdata/shftr-Unity.git
+[submodule "shftr-Unity-demo"]
+	path = shftr-Unity-demo
+	url = https://github.com/Zan-Infdata/shftr-Unity-demo.git
