@@ -1,2 +1,2 @@
 # shftr-master-repo
-shftr-master-repo
+This is master repository for Shapeshifter.
